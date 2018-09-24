@@ -1,3 +1,9 @@
 I am a good boy.
-I am learning git.Now this will be added in dev branch.
+<<<<<<< HEAD
+I am learning git.
 new line added
+=======
+My name is Kay.
+I am learning git.
+
+>>>>>>> dev
